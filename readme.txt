@@ -6,6 +6,8 @@ evaluacion
 m7_s8
 
 Para clonar:
+https://github.com/ThDelgado/app_consulta_personalizada.git
+
 
 Thelma Delgado
 
